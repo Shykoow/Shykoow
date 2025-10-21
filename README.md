@@ -29,7 +29,12 @@ I work with **HTML**, **CSS**, and **React** to bring ideas to life.
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shykoow&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img alt="Most Used Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shykoow&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9" />
+  <img 
+  align="left" 
+  alt="Most Used Languages" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shykoow&theme=tokyonight&layout=normal&langs_count=9&hide=jupyter%20notebook" 
+/>
 </p>
 
 ---
